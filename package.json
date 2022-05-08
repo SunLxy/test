@@ -1,0 +1,45 @@
+{
+  "name": "@template/react-router",
+  "homepage": "https://sunlxy.github.io/test",
+  "version": "1.0.0",
+  "description": "Use react-router for the project.",
+  "private": true,
+  "scripts": {
+    "start": "kkt start",
+    "build": "kkt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kktjs/kkt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "~0.26.1",
+    "react": "~18.0.0",
+    "react-dom": "~18.0.0",
+    "react-router-dom": "~6.2.1"
+  },
+  "devDependencies": {
+    "@kkt/less-modules": "7.1.2",
+    "kkt": "7.1.7"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
