@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/876.92c85b52.chunk.js","mappings":"qMAEe,SAASA,IACtB,OAAO","sources":["routes/help/dashboard/index.jsx"],"sourcesContent":["import React from 'react';\n\nexport default function HelpDashboard() {\n  return <div>Help Page.</div>;\n}\n"],"names":["HelpDashboard"],"sourceRoot":""}

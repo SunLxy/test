@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_template_react_router=self.webpackChunk_template_react_router||[]).push([[619],{619:function(e,r,t){t.r(r),t.d(r,{default:function(){return a}});t(879);var n="index_warpper__Bhdme",u=t(364);function a(){return(0,u.jsx)("div",{className:n,children:"\u8fd9\u91cc\u662f\u9996\u9875"})}}}]);
+//# sourceMappingURL=619.545a2378.chunk.js.map
