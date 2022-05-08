@@ -9,6 +9,8 @@ package-lock.json
 .cache
 .vscode
 
+yarn.lock
+
 *.bak
 *.tem
 *.temp
