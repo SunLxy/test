@@ -3,7 +3,7 @@ Basic Example for react-router
 
 Use [`react-router`](https://github.com/remix-run/react-router) for the project.
 
-## Quick Start
+## 快速开始
 
 ```bash
 $ npx create-kkt my-app -e react-router
